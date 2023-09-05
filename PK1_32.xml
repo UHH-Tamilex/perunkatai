@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tei-to-html.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title><title xml:lang="ta">Peruṅkatai</title></title>
+            
+         <editor><persName>Eszter Somogyi</persName><orgName>Universität Hamburg</orgName></editor></titleStmt>
+         <publicationStmt>
+            <publisher>TST Project</publisher>
+            <date>2023</date>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier>
+                  <repository>
+                     <orgName>École française d'Extrême-Orient</orgName>
+                  </repository>
+                  <idno type="shelfmark">TVG 237</idno>
+                  <idno type="alternate"/>
+               </msIdentifier>
+               <msContents class="#STM">
+                  <summary>This copy of the 2nd edition of the <title xml:lang="ta">Peruṅkatai</title> is from the collection of T. V. Gopal Iyer, preserved at the <orgName xml:lang="fr">École française d'Extrême-Orient</orgName> and digitized by the NETamil project.</summary>
+                  
+               <msItem xml:id="PK" defective="false"><title xml:lang="ta">Peruṅkatai</title><textLang mainLang="tam"/></msItem></msContents>
+               <physDesc>
+                  
+                  
+                  
+                  
+                  
+               <objectDesc form="codex" rend="movable-type">
+                     <supportDesc material="paper">
+                        
+                        
+                        
+                        
+                        
+                     <support>
+                           
+                        </support><extent>
+                           <measure unit="page" quantity="1394"/>
+                           <dimensions type="object" unit="mm">
+                              
+                              
+                           </dimensions>
+                           <dimensions type="leaf" unit="mm">
+                              
+                              
+                           </dimensions>
+                           <dimensions type="written" unit="mm">
+                              
+                              
+                           </dimensions>
+                        </extent></supportDesc>
+                     <layoutDesc>
+                        
+                     </layoutDesc>
+                  </objectDesc><handDesc/><typeDesc><typeNote scope="sole" script="tamil" scriptRef="#tamilPreReform" medium="ink black"/></typeDesc><additions>
+                  </additions><bindingDesc>
+                     <binding>
+                        
+                        <decoNote type="stringhole">
+                           <measure unit="stringhole"/>
+                        </decoNote>
+                    </binding>
+                  </bindingDesc></physDesc>
+               <history>
+                  
+                  
+                  
+               <origin>
+                     <origDate calendar="gregorian"/>
+                     
+                  </origin></history>
+               <additional>
+                  <listBibl>
+                     
+                  <bibl><persName xml:lang="ta">Cāminātaiyar, U. Vē.</persName> 1935. <title xml:lang="ta">Konkuvēḷir iyarriya Peruṅkatai.</title> 2nd edition. <term xml:lang="ta">Ceṉṉai</term>: <orgName xml:lang="ta">Kēcari Accukkūṭam</orgName>.
+</bibl></listBibl>
+               </additional>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc><p>Madras lexicon transliteration.</p></encodingDesc>
+      
+   <revisionDesc/></teiHeader>
+   <facsimile>
+   <graphic url="https://iiif.archivelab.org/iiif/perunkatai/manifest.json" facs="221"/></facsimile>
+<text corresp="#PK" xml:lang="ta"><body>
+  <head type="sub"><pb n="1" facs="221"/><lb/><g ref="#pcs"/></head>
+  <head type="sub"><lb/>kaṇapati tuṇai.</head>
+  <head><lb/>peruṅkatai</head>
+  <head type="sub"><lb/>mutalāvatu uñcaik kāṇṭam.</head>
+  <div type="mulam">
+    <head type="sub"><lb/>32 — karuṭu peyarttatu.</head>
+    <head type="sub"><lb/>(piraccōtaṉaṉai nōkki utayaṇaṉ kūṟal)</head>
+    <lg>
+      <l><lb/>...............<note place="foot">itaṟku muṉṉuḷḷa pakutikaḷ kiṭaikkavillai.</note><hi rend="bold">po</hi>ruḷ puri nūlum</l>
+     <l><lb/>alakai cāṉṟa vulaka purāṇamum</l>
+      <l><lb/>palavakai marapiṟ pācaṇ ṭiyarkaḷ</l>
+    </lg>
+  </div>
+  <div type="urai">
+    <head><lb/>kuṟippurai</head>
+    <head type="sub">32 — karaṭu peyarttatu.</head>
+    <head type="sub">karaṭu – yāṉaiyiṉ mataccerukku.</head>
+<p><lb/>[utayaṇaṉ piraccōtaṉaṉuṭaiya viruppattiṉpaṭi avaṉatu
+  <lb/>paṭṭattu yāṉaiyiṉ mataccērukkai aṭakkiyūrntatum, appōḻatu
+  <lb/>avaṉ aṉpu pārāṭṭiyatum, utayaṇaṉum vācavatattaiyum oruvarai
+  <lb/>yoruvar nōkkik kāḻaṟṟatum, piṟavum ippatutiyāl aṟiyalātam,]</p>
+    <list rend="numbered">
+      <item><lb/>poruḷpurināl - artta cāttiram</item>
+      <item><lb/>alakai - aḷavu, uraiyāṇi; ulakapurāṇam - ulakattiṉ
+        <lb/>paḻaiya varalāṟṟaik kūṟum tūl; ulōka vilācaṉiyeṉavum vaḻaṅ
+        <lb/>kappeṟum.</item>
+      <item><lb/>pācaṇṭiyarkaḷ - pāṣaṇṭiyarkaḷ; ivarkaḷ toṇṇāṟ
+        <lb/>rāṟu camaya cāttirat tarukkak kōvaiyaiyuṭaiyarātaviṉ, ‘palavakai
+        <lb/>marapiṟ pācaṇṭiyarkaḷ’ eṉṟār; <hi rend="bold">cilap.</hi> 6; <num xml:lang="en">14 - 5</num>-ām. aṭi.
+        <lb/>kaḷukku <hi rend="bold">aṭiyārkkunallā</hi>reḻutiya  vicēṭavuraiyaiyum avaṟṟiṉ
+        <lb/>kīḻkkuṟippaiyum pārkka.</item>
+    </list>
+  </div>
+</body></text></TEI>
