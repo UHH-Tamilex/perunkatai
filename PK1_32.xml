@@ -95,7 +95,7 @@
   <head type="sub"><lb/>mutalāvatu uñcaik kāṇṭam.</head>
   <div type="mulam">
     <head type="sub"><lb/>32 — karuṭu peyarttatu.</head>
-    <head type="sub"><lb/>(piraccōtaṉaṉai nōkki utayaṇaṉ kūṟal)</head>
+    <head type="sub"><lb/>(piraccōtaṉa<g rend="prereform">ṉai</g> nōkki utayaṇaṉ kūṟal)</head>
     <lg>
       <l><lb/>...............<note place="foot">itaṟku muṉṉuḷḷa pakutikaḷ kiṭaikkavillai.</note><hi rend="bold">po</hi>ruḷ puri nūlum</l>
      <l><lb/>alakai cāṉṟa vulaka purāṇamum</l>
@@ -110,8 +110,7 @@
   <lb/>paṭṭattu yāṉaiyiṉ mataccērukkai aṭakkiyūrntatum, appōḻatu
   <lb/>avaṉ aṉpu pārāṭṭiyatum, utayaṇaṉum vācavatattaiyum oruvarai
   <lb/>yoruvar nōkkik kāḻaṟṟatum, piṟavum ippatutiyāl aṟiyalātam,]</p>
-    <list rend="numbered">
-      <item><lb/>poruḷpurināl - artta cāttiram</item>
+<p><lb/><num xml:lang="en">1.</num> poruḷpurināl - artta cāttiram</p>
       <item><lb/>alakai - aḷavu, uraiyāṇi; ulakapurāṇam - ulakattiṉ
         <lb/>paḻaiya varalāṟṟaik kūṟum tūl; ulōka vilācaṉiyeṉavum vaḻaṅ
         <lb/>kappeṟum.</item>
@@ -120,6 +119,31 @@
         <lb/>marapiṟ pācaṇṭiyarkaḷ’ eṉṟār; <hi rend="bold">cilap.</hi> 6; <num xml:lang="en">14 - 5</num>-ām. aṭi.
         <lb/>kaḷukku <hi rend="bold">aṭiyārkkunallā</hi>reḻutiya  vicēṭavuraiyaiyum avaṟṟiṉ
         <lb/>kīḻkkuṟippaiyum pārkka.</item>
-    </list>
+  </div>
+
+  <div type="mulam">
+   <lg>
+<l><pb n="2" facs="222"/><lb/>calacala miḻaṟṟuñ camaya vikaṟpamum</l>
+<l><lb/>icaiyoṭu veṇiya yāḻi lum</l>
+<l><lb/>nāṭakap poruḷum...</l>
+<l><lb/>uppāṟ poruḷu muṭkoṇ ṭaṭakki</l>
+<l><lb/>uḷappā.ṭuṭaimai <app><lem>yutayaṇa</lem><rdg>utayaṉaṉ</rdg></app> ṉuraittalum </l>
+   </lg>
+<head type="sub">(piraccōtaṉaṉ uṭkōḷ)</head>
+<lg>
+<l><lb/>iṉaittō riḷamaiyo ṭeṉaippala kēḷviyum</l>
+<l><lb/>tavattatu perumaiyiṟ ṟaṅṉe vivaṟkeṉa</l>
+<l><lb/>maruṭkai yuṟṟa taṉ maṉampuṟik taruḷi</l>
+</lg>
+<head type="sub">(viyanta aracaṉ viḷampal)</head>
+<lg>
+<l><lb/>emmuṭai yaḷavaiyit paṇpup pēṇi </l>
+<l><lb/>nuṉpatip peyarkku maḷavaiyi ṉumpiyar</l>
+<l><lb/>niṉvamip paṭukeṉa <app>
+   <lem>maṉṉava ṉumaiyā</lem>
+   <rdg>maṉṉavaṟkuraiyā</rdg>
+   <rdg>maṉṉavaṟkuraippa</rdg>
+</app> </l>
+</lg>
   </div>
 </body></text></TEI>
