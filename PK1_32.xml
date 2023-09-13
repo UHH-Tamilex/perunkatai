@@ -87,7 +87,7 @@
       
    <revisionDesc/></teiHeader>
    <facsimile>
-   <graphic url="https://iiif.archivelab.org/iiif/perunkatai/manifest.json" facs="221"/></facsimile>
+   <graphic url="https://iiif.archive.org/iiif/perunkatai/manifest.json" facs="221"/></facsimile>
 <text corresp="#PK" xml:lang="ta"><body>
   <head type="sub"><pb n="1" facs="221"/><lb/><g ref="#pcs"/></head>
   <head type="sub"><lb/>kaṇapati tuṇai.</head>
