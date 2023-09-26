@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tei-to-html.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Peruṅkatai 1.34 — yāḻ kaivaittatu</title>
+        </title>
+        <editor>
+          <persName>Eszter Somogyi</persName>
+          <orgName>Universität Hamburg</orgName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Tamilex</publisher>
+        <date>2023</date>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <repository>
+              <orgName>École française d'Extrême-Orient</orgName>
+            </repository>
+            <idno type="shelfmark">TVG 237</idno>
+            <idno type="alternate"/>
+          </msIdentifier>
+          <msContents class="#STM">
+            <summary>This copy of the 2nd edition of the <title xml:lang="ta">Peruṅkatai</title> is from the collection of T. V. Gopal Iyer, preserved at the <orgName xml:lang="fr">École française d'Extrême-Orient</orgName> and digitized by the NETamil project.</summary>
+            <msItem xml:id="PK" defective="false">
+              <title xml:lang="ta">Peruṅkatai</title>
+              <textLang mainLang="tam"/>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc form="codex" rend="movable-type">
+              <supportDesc material="paper">
+                <support/>
+                <extent>
+                  <measure unit="page" quantity="1394"/>
+                  <dimensions type="object" unit="mm">
+                           </dimensions>
+                  <dimensions type="leaf" unit="mm">
+                           </dimensions>
+                  <dimensions type="written" unit="mm">
+                           </dimensions>
+                </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout columns="1" streams="2"></layout>
+              </layoutDesc>
+            </objectDesc>
+            <typeDesc>
+              <typeNote scope="sole" script="tamil" scriptRef="#tamilPreReform" medium="ink black"/>
+            </typeDesc>
+            <additions>
+                  </additions>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate calendar="gregorian"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <bibl><persName xml:lang="ta">Cāminātaiyar, U. Vē.</persName> 1935. <title xml:lang="ta">Konkuvēḷir iyarriya Peruṅkatai.</title> 2nd edition. <term xml:lang="ta">Ceṉṉai</term>: <orgName xml:lang="ta">Kēcari Accukkūṭam</orgName>.
+</bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p>Madras lexicon transliteration.</p>
+    </encodingDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <facsimile>
+    <graphic url="https://iiif.archive.org/iiif/perunkatai/manifest.json" facs="249"/>
+  </facsimile>
+  <text corresp="#PK" xml:lang="ta">
+    <body>
+        <head type="sub"><pb n="29" facs="249"/></head>
+        <head type="sub">34 — yāḻ kaivaittatu.</head>
+        <head type="sub"><lb/>()</head>
+  
+        <div type="mulam">
+          <lg>
+            <l><lb/><hi rend="bold"></hi></l>
+            <l><lb/></l>
+            <l><lb/></l>
+          </lg>
+      </div>
+
+      <div type="urai">
+        <p><lb/><num xml:lang="en">.</num> </p>
+           
+        <p><lb/><num xml:lang="en">.</num>
+           <lb/>
+        </p>
+     </div>
+
+    </body>
+  </text>
+</TEI>
