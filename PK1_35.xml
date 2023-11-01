@@ -1,0 +1,958 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="tei-to-html.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+          <title xml:lang="ta">Peruṅkatai 1.35 — narumatai campantam</title>
+        </title>
+        <editor>
+          <persName>Eszter Somogyi</persName>
+          <orgName>Universität Hamburg</orgName>
+        </editor>
+      </titleStmt>
+      <publicationStmt>
+        <publisher>Tamilex</publisher>
+        <date>2023</date>
+      </publicationStmt>
+      <sourceDesc>
+        <msDesc>
+          <msIdentifier>
+            <repository>
+              <orgName>École française d'Extrême-Orient</orgName>
+            </repository>
+            <idno type="shelfmark">TVG 237</idno>
+            <idno type="alternate"/>
+          </msIdentifier>
+          <msContents class="#STM">
+            <summary>This copy of the 2nd edition of the <title xml:lang="ta">Peruṅkatai</title> is from the collection of T. V. Gopal Iyer, preserved at the <orgName xml:lang="fr">École française d'Extrême-Orient</orgName> and digitized by the NETamil project.</summary>
+            <msItem xml:id="PK" defective="false">
+              <title xml:lang="ta">Peruṅkatai</title>
+              <textLang mainLang="tam"/>
+            </msItem>
+          </msContents>
+          <physDesc>
+            <objectDesc form="codex" rend="movable-type">
+              <supportDesc material="paper">
+                <support/>
+                <extent>
+                  <measure unit="page" quantity="1394"/>
+                  <dimensions type="object" unit="mm">
+                           </dimensions>
+                  <dimensions type="leaf" unit="mm">
+                           </dimensions>
+                  <dimensions type="written" unit="mm">
+                           </dimensions>
+                </extent>
+              </supportDesc>
+              <layoutDesc>
+                <layout columns="1" streams="2"></layout>
+              </layoutDesc>
+            </objectDesc>
+            <typeDesc>
+              <typeNote scope="sole" script="tamil" scriptRef="#tamilPreReform" medium="ink black"/>
+            </typeDesc>
+            <additions>
+                  </additions>
+          </physDesc>
+          <history>
+            <origin>
+              <origDate calendar="gregorian"/>
+            </origin>
+          </history>
+          <additional>
+            <listBibl>
+              <bibl><persName xml:lang="ta">Cāminātaiyar, U. Vē.</persName> 1935. <title xml:lang="ta">Konkuvēḷir iyarriya Peruṅkatai.</title> 2nd edition. <term xml:lang="ta">Ceṉṉai</term>: <orgName xml:lang="ta">Kēcari Accukkūṭam</orgName>.
+</bibl>
+            </listBibl>
+          </additional>
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc>
+      <p>Madras lexicon transliteration.</p>
+    </encodingDesc>
+    <revisionDesc/>
+  </teiHeader>
+  <facsimile>
+    <graphic url="https://iiif.archive.org/iiif/perunkatai/manifest.json" facs="267"/>
+  </facsimile>
+  <text corresp="#PK" xml:lang="ta">
+    <body>
+      <head type="sub"><pb n="47" facs="267"/></head>
+      <head type="sub">35 — narumatai campantam.</head>
+      <head type="sub"><lb/>(ayalār kūṟṟukkaḷ)</head>
+  
+      <div type="mulam">
+        <lg>
+          <l><lb/><hi rend="bold">kai</hi>vait tamainta kaṉaṅkuḻaik kavviyāḻ</l>
+          <l><lb/>vaika ṟōṟum vattavaṉ kāṭṭa</l>
+          <l><lb/>nikaḻvatai yuraikkum <app><lem>pukarccoṉ</lem><rdg>pukaḻcoṉ</rdg></app> mākkaḷ</l>
+          <l><lb/>oṉṉalar nuḻaiyā vurimai māṇakart</l>
+          <l><lb/>taṉmaka ḷoruttiyait tāṉayāḻ kaṟkeṉa</l>
+          <l><lb/>ētiṉ maṉṉaṉai yeṇṇāṉ ṟeḷinta</l>
+          <l><lb/>pētai maṉṉaṉ piṉṉuṅ kāṇpāṉ</l>
+          <l><lb/>ceṉṟē yāyiṉuñ citaiyi ṉallatu</l>
+          <l><lb/>naṉṟoṭu vārā toṉṟaṟin tōrkkeṉa</l>
+          <l><lb/>araca ṉācā ṉarumpeṟaṟ ṟantaiyeṉak</l>
+          <l><lb/>kallāc caṉattoṭu pallōr colla</l>
+        </lg>
+      </div>
+
+      <div type="urai">
+        <head><lb/>35 — narumatai campantam.</head>
+        <p><lb/>[yāḻkaṟpittu varukaiyil, ayalār kūṟiya kūṟṟukkaḷum, vācava
+            <lb/>tattaiyiṉpāluḷḷa viruppamikutiyāl taṉakkuṇṭāṉa vēṟu
+            <lb/>pāṭṭai maṟaittaṟporuṭṭu utayaṇaṉ narumatai yeṉṉum nāṭakak
+            <lb/>kaṇikaiyai vayantakaṉaikkoṇṭu valitiṟ koṇarvittu avaḷaip
+            <lb/>pārāṭṭi yoḻukiyatum itaṉul aṟiyalākum.]
+          </p>
+        <p><lb/><num xml:lang="en">1.</num> kaṉaṅkuḻaikku - vācavatatcaikku.</p>
+        <p><lb/><num xml:lang="en">3.</num> mākkaḷ: eḻuvāy.</p>
+        <p><lb/><num xml:lang="en">4.</num> oṉṉalar - maṉam poruntātavarkaḷ. urimaimāṇakar -
+           <lb/>antappurattil.
+        </p>
+        <p><lb/><num xml:lang="en">5.</num> taṉṉeṉṟatu piraccōtaṉaṉai. tāṉayāḻ - curattāṉaṅ
+            <lb/>kaḷaiyuṭaiya yāḻ.
+        </p>
+        <p><num xml:lang="en">6.</num> ētil maṉṉaṉai - ayalaracaṉai.</p>
+        <p><lb/><num xml:lang="en">7.</num> pētai maṉṉaṉ - piraccōtaṉaṉ.</p>
+        <p><lb/><num xml:lang="en">6-7.</num> <q>kampalaip perumpaḻi yeytiya kāvalaṉ, vampa maṉṉaṉai
+            <lb/>vaḻiteḷin taṉaṉeṉa.</q> <hi rend="bold">peruṅ.</hi> 1. <num xml:lang="en">46: 315-6.</num>
+        </p>
+        <p><lb/><num xml:lang="en">9.</num> naṉṟoṭuvārātu - icceyal naṉmaiyuṭaṉ nikaḻātu.</p>
+        <p><lb/><num xml:lang="en">10.</num> ācāṉum aracaṉ, tantaiyum aracaṉeṉa iyaikka; utayaṇa
+            <lb/>ṉum vācavatattaiyum tammuḷviruppaṅkoḷvareṉpatu itaṉkaruttu.
+        </p>
+        <p><lb/> eṉa (<num xml:lang="en">9</num>) eṉac (<num xml:lang="en">10</num>) colla (<num xml:lang="en">11</num>).</p>
+     </div>
+
+     <div type="mulam">
+        <lg>
+          <l><pb n="48" facs="268"/><lb/>.........ppukāa riyalpuṇarn tōreṉa</l>
+          <l><lb/>matiyōr moḻinta tituveṉ ṟeṇṇi</l>
+          <l><lb/>iṉṉavai piṟavun tuṉṉiṉar kiḷantu</l>
+          <l><lb/>vēntiṭai yiṭṭa veñco lātaliṟ</l>
+          <l><lb/>cērntōr māṭṭuñ ceppa ṟīteṉa</l>
+          <l><lb/>uraippōr nāviṟ kuṟuti yiṉmaiyiṉ</l>
+          <l><lb/>niṉaittatu mikaiyeṉa neñcu valiyuṟīi</l>
+          <l><lb/>maṉattatai yāka mānta raṭaṅkaliṉ</l>
+          <l><lb/>vampa mākkaḷ vāyeṭut turaikkum</l>
+          <l><lb/>kampalai yiṉmaiyiṟ kaṭinakar tēṟi</l>
+          <l><lb/>āṅkaṉa moḻukuṅ kālai yōṅkiya</l>
+        </lg>
+        <head type="sub"><lb/>(vayantakaṉ ceyal)</head>
+        <lg>
+          <l><lb/>māṇip paṭivamoṭu matiluñ cēṉaiyuḷ</l>
+          <l><lb/>ōtiya kālat tuṭaṉviḷai yāṭit</l>
+          <l><lb/>tōḻa mākka ṭoḻutiyiṟ kūṭip</l>
+          <l><lb/>pāla kumaraṉ paṇiyi ṉorunāḷ</l>
+          <l><lb/>mālaiyuñ cāntu maṭiyum peyta</l>
+        </lg>
+      </div>
+      <div type="urai">
+        <p><lb/><num xml:lang="en">15.</num> vēntu iṭaiyiṭṭa - aracaṉiṭattē kalappuṟṟa.</p>
+        <p><lb/><num xml:lang="en">15-6.</num> <q>veṅkaṇ vēntar taṅkaṭ kuṟṟa, taṅkaṇ ñālat tārē
+            <lb/>yāyiṉum, akaliṭat turaippi ṉaṟṟam payattaliṉ</q> <hi rend="bold">peruṅ.</hi> 4. <num xml:lang="en">6: </num>
+            <lb/><num xml:lang="en">32-4.</num>
+        </p>
+        <p><lb/><num xml:lang="en">17.</num> nākku aṟupaṭumeṉpatu kuṟippu; <q>akkariya mūkkuṅkai yari
+            <lb/>yuṇṭā ḷeṉṟārai, nākkariyun tayamukaṉār</q> (<hi rend="bold">kampa.</hi> cūrppanakaip. 
+            <lb/><num xml:lang="en">125</num>) eṉpatu iṅkē karutaṟkuriyatu.
+        </p>
+        <p><lb/><num xml:lang="en">18.</num> niṉaittatum tavaṟākum; <q>kāvaṉ maṉṉavar kāyvaṉa cinti
+            <lb/>yār, nāviṉu muraiyār navaiyañcuvār</q> <hi rend="bold">cīvaka.</hi> <num xml:lang="en">249.</num>
+        </p>
+        <p><lb/><num xml:lang="en">19.</num> maṉattatai: ai, cāriyai. māntar - maṟṟai maṉitar.</p>
+        <p><lb/><num xml:lang="en">20.</num> vampamākkaḷ - paratēcikaḷ; <hi rend="bold">cilap.</hi> 5: <num xml:lang="en">111.</num></p>
+        <p><lb/><num xml:lang="en">21.</num> kampalai - muḻakkam.</p>
+        <p><num xml:lang="en">22.</num> āṅkaṉam - appaṭi.</p>
+        <p><lb/><num xml:lang="en">23.</num> māṇippaṭivamoṭu - piramacāri vaṭivattōṭu. uñcēṉai -
+            <lb/>uccayiṇinakar.
+        </p>
+        <p><lb/><num xml:lang="en">24.</num> ōtiya kālattu - aracaṉuṭaiya makkaḷ kaṟṟakālattil.</p>
+        <p><lb/><num xml:lang="en">25.</num> toḻutiyil - kūṭṭattil.</p>
+        <p><lb/><num xml:lang="en">26.</num> pālakumaraṉ - piraccōtaṉaṉuṭaiya putalvaruḷ oruvaṉ.
+            <lb/>paṇiyiṉ - avaṉatu kaṭṭaḷaiyiṉālē.
+        </p>
+        <p><num xml:lang="en">27.</num> maṭi - āṭai.</p>
+      </div>
+
+      <div type="mulam">
+        <lg>
+          <l><pb n="49" facs="269"/><lb/>kaiyuṟaic ceppoṭu kaṭinakarc ceṉṟa</l>
+          <l><lb/>vayantaka kumaraṉai nayantumuka nōkkip</l>
+          <l><lb/>paṇṭiyā ṉivaraip payiṉṟuḻi yuṇṭeṉak</l>
+          <l><lb/>kaṇṭaṟi vilīreṉak karantavaṉ maṟuppak</l>
+          <l><lb/>.........pōla..............................</l>
+          <l><lb/>icaiyā mākkaṇmu ṉiyalpila colli</l>
+          <l><lb/>aṉṟutalaip paṭṭa vārvalar pōla</l>
+          <l><lb/>iṉṟutalai yāka veṉṟu memvayiṉ</l>
+          <l><lb/>ivarē varukeṉa vēyiṉ ṉaruḷi</l>
+          <l><lb/>maṉṉa kumaraṉ ṟaṉvayiṟ kōṭaliṉ</l>
+          <l><lb/>arumpeṟaṟ ṟōḻa ṉāṅkuvan toḻukip</l>
+          <l><lb/>perumpeṟ ṟaṟaiyum pēcciṉa ṉāki</l>
+          <l><lb/>māya yākkaiyoṭu matilakat toṭuṅkiya</l>
+          <l><lb/>āya mākka ḷavaṉvayi ṉaṟintu</l>
+          <l><lb/>kāva lāḷa raṟṟa nōkki</l>
+          <l><lb/>mēvaṉa meṉṉuñ cūḻcciya rākip</l>
+          <l><lb/>paṉṉāḷ <app><lem>kaḻitta</lem><rdg>kaḻinta</rdg></app> piṉṉar muṉṉāḷ</l>
+        </lg>
+        <head type="sub"><lb/>(utayaṇaṉukku vācavatattaimītu vēṭkai mikutal)</head>
+        <lg>
+         <l><lb/>eṇmeyp pāṭṭiṉu ḷirakka meynniṟīi</l>
+        </lg>
+      </div>
+      <div type="urai">
+        <p><lb/><num xml:lang="en">28.</num> kaṭinakar - utayaṇaṉirukkum araṇmaṉai.</p>
+        <p><lb/><num xml:lang="en">30.</num> eṉa - eṉṟu utayaṇaṉ colla.</p>
+        <p><lb/><num xml:lang="en">31.</num> aṟivilīr - nīr eṉṉai aṟiyātavar. avaṉ - vayantakaṉ.</p>
+        <p><lb/><num xml:lang="en">33.</num> icaiyā mākkaḷ - maṉamporuntāta maṉitar.</p>
+        <p><lb/><num xml:lang="en">35.</num> iṉṟu talaiyāka - iṉṟu mutalāka.</p>
+        <p><lb/><num xml:lang="en">36.</num> ēyiṉaṉaruḷi - colli; <q>cuṇṇam viḷakkivaṟṟāṟ puṉaita
+            <lb/>ṉāḷu mēvā</q> <hi rend="bold">cīvaka.</hi> <num xml:lang="en">1547.</num>
+        </p>
+        <p><lb/><num xml:lang="en">36-7.</num> vayantakaṉaiyē taṉpālaṉuppumpaṭi pālakumaraṉukkut
+            <lb/>terivittu utayaṇaṉ aṅṅaṉam peṟṟukkoṇṭamaiyiṉ.
+        </p>
+        <p><lb/><num xml:lang="en">38.</num> tōḻaṉ - vayantakaṉ.</p>
+        <p><lb/><num xml:lang="en">39.</num> peṟṟu - perukkam. āki - ātalāl.</p>
+        <p><num xml:lang="en">41.</num> āyam - kūṭṭam.</p>
+        <p><lb/><num xml:lang="en">40-41.</num> vēṟṟu vaṭivaṅkoṇṭu aṅkē taṅkiya yūkiyiṉ maṉi
+            <lb/>tarkaḷ avaṉiṭam aṟiyavēṇṭuvaṉavaṟṟai yaṟintu.
+        </p>
+        <p><lb/><num xml:lang="en">42.</num> aṟṟam - cōrnta camayam.</p>
+        <p><num xml:lang="en">43.</num> mēvaṉam - aṭaivōm.</p>
+        <p><lb/><num xml:lang="en">45.</num> eṇmeyppāṭu - nakai mutaliyaṉa. irakkam - irakkattai;</p>
+      </div>
+
+        <div type="mulam">
+        <lg>
+          <l><pb n="50" facs="270"/><lb/>oṇviṉai yōviyar kaṇṇip viruttiyuṭ</l>
+          <l><lb/>ṭalaiyata ṉumpart tāṉkuṟik koṇṭa</l>
+          <l><lb/>pāvai nōkkat tāraṇaṅ keyti</l>
+          <l><lb/>muṟṟāṉ kaṇṭa mukañcey kārikai</l>
+          <l><lb/>uṭkoṇ ṭaraṟṟu muṟu <app><lem>piṇi talaiik</lem><rdg>piṇittalaii</rdg></app></l>
+          <l><lb/>kaṭkoṇ ṭāṅkuk kaḷinōy kaṉaṟṟat</l>
+          <l><lb/>tīmukat tiṭṭa meḻukiṟ ṟēmpiyum</l>
+        </lg>
+      </div>
+      <div type="urai">
+        <p><lb/>eṉṟatu karuṇaiyai; aḵtu aḻukai yallatu avalameṉappaṭum;
+            <lb/>iṅkē coṉṉatu taṉkaṭ ṭōṉṟiya iḻavupaṟṟiya aḻukaiyām; <q>iḻa
+            <lb/>veṉpatu tantaiyuntāyu mutalākiya cuṟṟattāraiyum, iṉpam payakkum
+            <lb/>nukarcci mutaliyavaṟṟaiyum iḻattal</q> (<hi rend="bold">tol.</hi> meyp. cū, <num xml:lang="en">3</num>, <hi rend="bold">pēr.</hi>)
+            <lb/>eṉṟa uraiyiṉāl itu teḷiyappaṭum.
+        </p>
+        <p><lb/><num xml:lang="en">46.</num> ōviyar - cattira ilakkaṇaṅ kūṟum nūluṭaiyār. virutti -
+            <lb/>iruppu; ācaṉam; <q>oṉpatu virutti naṉpata nuṇitta, ōvaviṉaiyāḷar</q>
+            <lb/><hi rend="bold">peruṅ.</hi> 2. <num xml:lang="en">7: 40-41.</num>
+        </p>
+        <p><lb/><num xml:lang="en">47.</num> talaiyataṉumpar - mutalāvatākiya patumācaṉattiṉkaṇ; āca
+            <lb/>ṉam oṉpatu vakaippaṭum; <hi rend="bold">cilap.</hi> 8: <num xml:lang="en">23</num>-ām aṭi mutaliyavaṟṟiṉ
+            <lb/>uraiyaip pārkka.
+        </p>
+        <p><lb/><num xml:lang="en">46-8.</num> vācavatattai nāṭōṟum patumācaṉamiṭṭu iruntu yāḻ
+            <lb/>kaṟṟāḷeṉpatu itaṉāl uṇarappaṭum.
+        </p>
+        <p><lb/><num xml:lang="en">44-8.</num> virutti yeṉpataṟku iruppeṉṟu poruḷeḻuti,
+            <lb/><q>paṉṉāḷ kaḻinta...eyti</q> eṉṉum intap pakutiyai ataṟku mēṟ
+            <lb/>kōḷ kāṭṭiṉar aṭiyārkku nallār; <hi rend="bold">cilap.</hi> 8: <num xml:lang="en">23-6.</num>
+        </p>
+        <p><lb/><num xml:lang="en">49.</num> mukañceytal - tōṉṟutal; pukumukam puritaleṉṉum
+            <lb/>meyppāṭu. kārikai - vācavatattaiyiṉ aḻakiṉē.
+        </p>
+        <p><lb/><num xml:lang="en">50.</num> uṟupiṇi talaii - kāmanōy atikarikkappeṟṟu.</p>
+        <p><lb/><num xml:lang="en">51.</num> kaṭkoṇṭāṅku - kaḷḷai uṭkoṇṭāl akkaḷ kaṉaṟṟu
+            <lb/>vatupōl; kaḷ kaṉaṟṟal, <q>kaḷippar kuḷippar</q> (<hi rend="bold">pari.</hi> 6.) eṉpataṉāl
+            <lb/>viḷaṅkum. kaṉaṟṟa - vetupputalāl.
+        </p>
+        <p><lb/><num xml:lang="en">52.</num> meḻukiṉ - meḻukaippōla.</p>
+        <p><lb/><num xml:lang="en">50-52.</num> <q>oḷḷiḻai tanta, paricaḻi paitaṉōy mūḻki yeṟiparanta,
+            <lb/>neyyuṇ meḻuki ṉilaiyātu paipayat, tēyu maḷitteṉ ṉuyir</q>
+            <lb/><hi rend="bold">kali.</hi> 138: <num xml:lang="en">20-23.</num>
+        </p>
+      </div>
+
+      <div type="mulam">
+        <lg>
+          <l><pb n="51" facs="271"/><lb/>tāymukat tiyātta kaṉṟiṟ pulampiyum</l>
+          <l><lb/>uyalarun tuṉpamo ṭoruvaḻip paḻakip</l>
+        </lg>
+        <head type="sub"><lb/>(utayaṇaṉ eṇṇutal)</head>
+        <lg>
+          <l><lb/>payalai koṇṭaveṉ paiyu ḷākkai</l>
+          <l><lb/>paṇṭeṉ vaṇṇam payiṉṟaṟi mākkaḷ</l>
+          <l><lb/>iṉṟeṉ vaṇṇa miṭaiterin teṇṇi</l>
+          <l><lb/>nuṇṇiti ṉōkki nōymuta ṉāṭiṟ</l>
+          <l><lb/>piṉṉitu karakkum peṟṟi yariteṉa</l>
+          <l><lb/>malarē ṟuṇkaṇ mātark <app><lem>kamainta</lem><rdg>amaitta</rdg></app></l>
+          <l><lb/>alaravaṇ putaikku marumaṟai nāṭit</l>
+        </lg>
+        <head type="sub"><lb/>(utayaṇaṉum vayantakaṉum ālōcittal)</head>
+        <lg>
+          <l><lb/>terivuṟu cūḻcciyu ṉiruvaru meṇṇip</l>
+          <l><lb/>piṟaṉpāṟ paṭṭa peṇpā ṉāṭi</l>
+          <l><lb/>avaḷpāṟ paṭṭa vārvañ ceykam</l>
+          <l><lb/>aṉṉā ḷoruttiyai yaṟintaṉai vammeṉap</l>
+        </lg>
+      </div>
+      <div type="urai">
+        <p><lb/><num xml:lang="en">53.</num> kaṉṟiṉ - pacuk kaṉṟaippōla; <q>tāykāṇ kaṉṟiṟ kāva
+            <lb/>laṉ virumpi</q> (<hi rend="bold">peruṅ.</hi> 2. <num xml:lang="en">10: 7</num>); <q>tāvā viruppoṭu kaṉṟiyāt
+            <lb/>tuḻiccellum ā</q> <hi rend="bold">kali.</hi> 81: <num xml:lang="en">36-7.</num>
+        </p>
+        <p><lb/><num xml:lang="en">54.</num> uyalaru - piḻaittaṟku ariya; <q>uyyā varumpaṭar</q>
+            <lb/><hi rend="bold">kuṟiñcip.</hi> <num xml:lang="en">11.</num>
+        </p>
+        <p><lb/><num xml:lang="en">55.</num> payalai - pacalai. paiyuḷākkai - tuṉpattāl vēṟupaṭṭa
+            <lb/>uṭampai.
+        </p>
+        <p><lb/><num xml:lang="en">58.</num> nōymutal - nōyiṉ kāraṇattai; <q>nōymutaṉāṭi</q>
+            <lb/><hi rend="bold">tirukkuṟaḷ.</hi> <num xml:lang="en">948.</num>
+        </p>
+        <p><num xml:lang="en">59.</num> karakkum - maṟaikkum.</p>
+        <p><lb/><num xml:lang="en">60.</num> mātarkku - vācavatattaiyiṉ poruṭṭu.</p>
+        <p><lb/><num xml:lang="en">61.</num> alar - palaraṟiyum paḻimoḻi. maṟai - irakaciyam.</p>
+        <p><lb/><num xml:lang="en">60-60.</num> = <num xml:lang="en">250 - 51.</num></p>
+        <p><num xml:lang="en">62.</num> iruvarum - utayaṇaṉum vayantakaṉum.</p>
+        <p><lb/><num xml:lang="en">64.</num> ceykam - ceyvēm; ceytu maṟaippēmeṉpatu karuttu.</p>
+        <p><lb/><num xml:lang="en">65.</num> aṉṉāḷ - attaṉmaiyai yuṭaiyāḷ. vammeṉa - vāveṉṟu
+            <lb/>utayaṇaṉ colla; vam, vāveṉpataṉ tiripeṉpar (<hi rend="bold">naṉṉūl,</hi>
+            <lb/>cū. 144, <hi rend="bold">mayilai.</hi>); <q>vammeṉak kommeṉak kūviṭap peṟṟāy</q>
+            <lb/><hi rend="bold">mīṉuṭciyammai.</hi> ampuli. <num xml:lang="en">1.</num>
+        </p>
+      </div>
+
+      <div type="mulam">
+        <head type="sub"><pb n="52" facs="272"/>(vayantakaṉ ceyal)</head>
+        <lg>
+          <l><lb/>palvēṉ muṟṟam paṇiyiṟ pōki</l>
+          <l><lb/>nakarmuḻu taṟiya nāṇikan torīi</l>
+          <l><lb/>oruvaṉ pāṅka ruḷamvait toḻukum</l>
+          <l><lb/>ataṉmi yāreṉa vāṅkavaṉ viṉava</l>
+          <l><lb/>iraṅkupoṟ kiṇkiṇi yiḷaiyōr naṭuvaṇ</l>
+          <l><lb/>araṅkiyaṉ makaḷirk cāṭal vakukkum</l>
+          <l><lb/>talaikkōṟ peṇṭiruṭ ṭavvai yorumakaḷ</l>
+          <l><lb/>nāṭakak kaṇikai narumatai yeṉṉum</l>
+          <l><lb/>pāvai yākumip paḻipaṭu tuṇaiyeṉa</l>
+          <l><lb/>orunūṟ ṟorukaḻañ curaikaṇ ṭeṇṇiya</l>
+          <l><lb/>kaṉapoṉ mācai kāṇa vēnti</l>
+          <l><lb/>maṉṟamu maṟukuṅ kampalai kaḻuma</l>
+          <l><lb/>vaṉappumuta lāka vaḻivara vamaintu</l>
+          <l><lb/>kuṇattumuṟai vakaiyiṟ kōla meyti</l>
+          <l><lb/>vīḻntōr nalkum veṟukkai yaṉṟik</l>
+          <l><lb/>kāṇi koṇṭuṅ kaṭaṉaṟin teṇṇiya</l>
+        </lg>
+      </div>
+      <div type="urai">
+        <p><lb/><num xml:lang="en">66.</num> palvēṉ muṟṟam: <hi rend="bold">peruṅ.</hi> 1. <num xml:lang="en">34: 39</num>; <num xml:lang="en">37: 2</num>, <num xml:lang="en">98</num>;
+            <lb/><q>neṭunuti vayakkaḻu niraitta vāyil</q> <hi rend="bold">perumpāṇ.</hi> <num xml:lang="en">128.</num>
+        </p>
+        <p><lb/><num xml:lang="en">68-9.</num> ataṉmi - kulavoḻukkattukku māṟāka naṭappavaḷ;
+            <lb/><q>aṉṟai vaikal ceṉṟōrp pēṇip, paḷḷi maruṅkiṟ paṭiṟiṉ ṟoḻu
+            <lb/>kum, celva makaḷir</q> (<num xml:lang="en">35: 89-91</num>) eṉap piṉṉark kūṟutaliṉ oru
+            <lb/>vaṉ pāṅkar uḷam vaittoḻukutal ataṉmamāyiṟṟu. avaṉ - vayanta
+            <lb/>kaṉ.
+        </p>
+        <p><num xml:lang="en">70.</num> iḷaiyōr - iḷamakaḷir.</p>
+        <p><lb/><num xml:lang="en">72.</num> talaikkōṟ peṇṭiruḷ - talaikkōleṉṉum paṭṭampeṟṟa
+            <lb/>kaṇikaiyaruḷ. tavvai yorumakaḷ - periyavaḷākiya orutti; eḻuvāy.
+        </p>
+        <p><lb/><num xml:lang="en">73.</num> <q>narumatai mutalā nāṭakamakaḷir</q> <hi rend="bold">peruṅ.</hi> 4. <num xml:lang="en">10: 72.</num></p>
+        <p><lb/><num xml:lang="en">74.</num> eṉa - eṉṟu colla.</p>
+        <p><lb/><num xml:lang="en">76.</num> mācai - oruvakai nāṇayam; <q>paṉṉī rāyiram pacumpoṉ
+            <lb/>mācaiyum</q>, <q>tamaṉiya mācaiyoṭu</q> <hi rend="bold">peruṅ.</hi> 1. <num xml:lang="en">38: 283</num>, <num xml:lang="en">39: 11.</num>
+        </p>
+        <p><lb/><num xml:lang="en">75-6.</num> uraikaṇṭeṇṇiya nūṟṟorukaḻañcu poṉmācai
+            <lb/>yaip palarum kāṇumpaṭi avaṉ kaiyil ēntikkoṇṭu.
+        </p>
+        <p><lb/><num xml:lang="en">78.</num> vaṉappu mutaliyaṉa - aḻaku āṭal pāṭaleṉpaṉa.</p>
+        <p><lb/><num xml:lang="en">80.</num> vīḻntōr - virumpiṉōr. veṟukkai - tiraviyam.</p>
+        <p><lb/><num xml:lang="en">81.</num> kāṇi - uriyanilattai.</p>
+      </div>
+
+      <div type="mulam">
+        <lg>
+          <l><pb n="53" facs="273"/><lb/>oṉṟumuta lāka vōreṭ ṭiṟutta</l>
+          <l><lb/>āyiraṅ kāṟu mātta paricat</l>
+          <l><lb/>tiyāḻmuta lāka vaṟupat torunāṉ</l>
+          <l><lb/>kēriḷa makaḷirk kiyaṟkaiyeṉ ṟeṇṇik</l>
+          <l><lb/>kalaiyuṟa vakutta kāmak kēḷvit</l>
+          <l><lb/>tuṟaineṟi pōkiya tōḻit tūtiṉar</l>
+          <l><lb/>aracark kāyiṉu maṭiyark kāyiṉum</l>
+          <l><lb/>aṉṟai vaikal ceṉṟōrp pēṇip</l>
+          <l><lb/>paḷḷi maruṅkiṟ paṭiṟiṉ ṟoḻukum</l>
+          <l><lb/>celva makaḷir cēri naṇṇi</l>
+          <l><lb/>vayakkaḷi ṟaṭakkiya vattavar perumakaṉ</l>
+          <l><lb/>iyakkarum vītiyi ṉetirppaṭa vorunāḷ</l>
+          <l><lb/>nayappuṟ ṟaraṟṟu narumatai yeṉṉum</l>
+        </lg>
+      </div>
+      <div type="urai">
+        <p><lb/><num xml:lang="en">82-3.</num> parattaiyar orukaḻañcup poṉmutal āyiratteṭṭuk
+            <lb/>kaḻañcuppoṉ varaiyiṟ paricam peṟutaṟkuriyareṉpatai, <q>oppa
+            <lb/>voṉ ṟātiyāka vāyirat tōreṭ ṭīṟāc, ceppi</q> (<hi rend="bold">cīvaka.</hi> <num xml:lang="en">107</num>),
+            <lb/><q>nūṟupat taṭukki yeṭṭukkaṭai niṟutta, vīṟuyar pacumpoṉ peṟu
+            <lb/>vatu</q>, <q>eṭṭukkaṭai niṟutta vāyirat teṇkaḻañcu, muṭṭā vaikal
+            <lb/>muṟaimaiyiṉ vaḻāat, tākkaṇaṅ kaṉaiyār</q> (<hi rend="bold">cilap.</hi> 3: <num xml:lang="en">164-5</num>,
+            <lb/>14: <num xml:lang="en">158-60</num>) eṉpaṉavaṟṟāluṇarka. āyiratteṇ kaḻañcil pariyat
+            <lb/>tiṟku āyiram kaḻañcum aḻivukku eṭṭukkaḻañcu meṉpar arumpata
+            <lb/>vurai yāciriyar; <hi rend="bold">cilap.</hi> 8: <num xml:lang="en">164.</num> <q>māṇiḻaikkoru kaṅkuliṉ maru
+            <lb/>vuvā raḷikku, māṇi tīrntapo ṉāyiraṅ kaḻañceṉa vaṟaivār</q> <hi rend="bold">pira</hi>
+            <lb/><hi rend="bold">mōttara.</hi> uruttirākka. <num xml:lang="en">26.</num>
+        </p>
+        <p><lb/><num xml:lang="en">84-6.</num> parattaiyarkkuriya kalaikaḷ aṟupattunāṉkeṉpatu,
+            <lb/><q>eṇṇeṇ kalaiyō riruperu vītiyum</q>, <q>eṇṇāṉ kiraṭṭi yiruṅ
+            <lb/>kalai payiṉṟa, paṇṇiyaṉ maṭantaiyar</q> (<hi rend="bold">cilap.</hi> 14: <num xml:lang="en">167</num>; 22:
+            <lb/><num xml:lang="en">138-9</num>) eṉpavaṟṟālum, <q>kūttum pāṭṭum</q> (<hi rend="bold">maṇi.</hi> 2: <num xml:lang="en">19</num>) eṉpatu
+            <lb/>mutaliyavaṟṟālum viḷaṅkum.
+        </p>
+        <p><lb/><num xml:lang="en">87.</num> tōḻit tūtiṉar - tōḻiyākiya tūtaiyuṭaiyavar.</p>
+        <p><lb/><num xml:lang="en">91.</num> parattaiyar cēriyai vayantakaṉaṭaintu.</p>
+        <p><lb/><num xml:lang="en">90-91.</num> <hi rend="bold">irāmāyaṇam.</hi> tikkuvicaya. <num xml:lang="en">161</num>-ām kaviyaip pārkka.</p>
+        <p><lb/><num xml:lang="en">93.</num> etirppaṭutalai narumataiyiṉ toḻilākak koḷka.</p>
+        <p><lb/><num xml:lang="en">94.</num> araṟṟum narumatai - araṟṟutaṟkuk kāraṇamākiya narumatai.</p>
+      </div>
+
+      <div type="mulam">
+        <lg>
+          <l><pb n="54" facs="274"/><lb/>nāṭakak kaṇikai māṭam yāteṉat</l>
+          <l><lb/>tāyuṟai viyaṉakart taṉkuṟai yuraittu</l>
+          <l><lb/>vāyi lākiya vayantakaṉ pukalum</l>
+          <l><lb/>cennū ṉiṇanta cittirak kammattu</l>
+          <l><lb/>veṇkā lamaḷi viruppi ṉēṟṟi</l>
+          <l><lb/>aṇiyiḻai makaḷirum yāṉaiyum vaṇakkum</l>
+          <l><lb/>maṇiyoli vīṇaiyuñ cāpamu marīik</l>
+          <l><lb/>kaḻaṟoṭi kavaiiya kalampoḻi taṭakkai</l>
+          <l><lb/>utayaṇa kumara ṉuḷḷat tuḷaḷeṉiṉ</l>
+        </lg>
+      </div>
+      <div type="urai">
+        <p><lb/><num xml:lang="en">97.</num> vāyil - tūtu. pukalum - pukuntavuṭaṉ.</p>
+        <p><lb/><num xml:lang="en">92-7.</num> narumatai muṉpu orunāḷ vītiyil etirppaṭṭamaiyiṉ
+            <lb/>utayaṇaṉ avaḷpāl viruppaṅkoṇṭu araṟṟutalāl, avaḷ vīṭu
+            <lb/>yāteṉṟu viṉāvikkoṇṭu ceṉṟu avaḷuṭaiya tāyiṉ māṭattai
+            <lb/>vayantakaṉ aṭaintāṉ; aṭaintavuṭaṉ.
+        </p>
+        <p><lb/><num xml:lang="en">98.</num> niṇanta - kaṭṭiya, piṉṉiya. cittirak kammam - cittirat to
+            <lb/>ḻil; kammam - karumam; <q>cēṭupaṭap puṉainta cittirak kammattu</q>
+            <lb/><hi rend="bold">peruṅ.</hi> 2. <num xml:lang="en">10: 9.</num>
+        </p>
+        <p><lb/><num xml:lang="en">99.</num> narumataiyiṉ tāy vayantakaṉai amaḷiyil ēṟṟi.</p>
+        <p><lb/><num xml:lang="en">98-9.</num> nūṉiṇanta amaḷi: <hi rend="bold">peruṅ.</hi> 1. <num xml:lang="en">34: 144-6.</num></p>
+        <p><lb/><num xml:lang="en">100-101.</num> makaḷiraiyum yāṉaiyaiyum vaṇaṅkac ceykiṉṟa
+            <lb/>vīṇai; <q>matakkaḷiṟu valiyā.........cāma kīta vōcaiyiṟ ṟaṇikkum</q>
+            <lb/>(<hi rend="bold">peruṅ.</hi> 1. <num xml:lang="en">44: 61-3</num>), <q>kāḻvarai nillāk kaṭuṅkaḷiṟ ṟoruttal,
+            <lb/>yāḻvarait taṅkiyāṅku</q> (<hi rend="bold">kali.</hi> 2) eṉpavaiyum, <q>icaiyiṉi livaṭkut
+            <lb/>tōṟṟām yāṉaiyāl vēṟu meṉṉiṉ, icaivatoṉ ṟaṉṟu kaṇṭīr</q>
+            <lb/>(<hi rend="bold">cīvaka.</hi> <num xml:lang="en">748</num>) eṉpatum, <q>yāṉai nātattiṟ ṟōṟṟutaliṉ, ataṟku
+            <lb/>vaṇaṅkutaliyalpu</q> eṉṉum ataṉuraiyum, <q>aimpula vēḻattiṉ ven
+            <lb/>toḻil vīyak, karuṇai vīṇai kāmuṟat taḻīi</q> (<hi rend="bold">ñāṉāmirtam,</hi> <num xml:lang="en">4</num>),
+            <lb/><q>makarayāḻ valla mainta ṉoruvaṉaik kaṇṭa mattap, pukarmukak kaḷiṟ
+            <lb/>ṟiṉ</q> (<hi rend="bold">mērumantara.</hi> vaccirāyuta. <num xml:lang="en">31</num>) eṉpaṉavum īṇṭaṟiyaṟpālaṉa.
+            <lb/>cāpamum - villum; viṟṟaḻumpumām.
+        </p>
+        <p><lb/><num xml:lang="en">102.</num> kaḻal toṭi - uḻalun toṭi (<hi rend="bold">ciṟupāṇ.</hi> <num xml:lang="en">95</num>); toṭi -         
+            <lb/>vīravaḷai. kalam - āparaṇaṅkaḷai; <q>kalampeyak kaviḻnta kaḻaṟoṭit
+            <lb/>taṭakkai</q> (<hi rend="bold">akanā.</hi> 213); <q>kalam poḻiyuṅ kaṭakat taṭakkaik kaḻa
+            <lb/>lōṉ</q> (<hi rend="bold">cīvaka.</hi> <num xml:lang="en">2359.</num>)
+        </p>
+        <p><num xml:lang="en">103.</num> uḷaḷeṉiṉ - uḷḷāḷāyiṉ.</p>
+        <p><lb/><num xml:lang="en">100-103.</num> <q>vārkavuḷ yāṉai vaṇaṅkutaṟ kamainta, vīṇai
+            <lb/>viccaiyoṭu viḻukkuṭip piṟavaritu, viḻukkuṭip piṟantiv vīṟoṭu</q><!-- quote doesn't end here, but in next page's urai-->
+        </p>
+      </div>
+
+      <div type="mulam">
+        <lg>
+          <l><pb n="55" facs="275"/><lb/>oṇṭoṭi mātaru morutuṇai yēruṭ</l>
+          <l><lb/>peṇṭuṇai cāṉṟa perumaipeṟ ṟaṉaḷeṉ</l>
+          <l><lb/>marumakaṟ pukalu maṉampuri koḷkai</l>
+          <l><lb/>irumū tāṭṭi yeṉakku muṇṭeṉat</l>
+          <l><lb/>tūṇṭi viraiyiṟ ṟuṭakkuḷ ḷuṟuttut</l>
+          <l><lb/>tēṉṟōyt taṉṉa tīñco laḷaiip</l>
+          <l><lb/>poruḷeṉak karutip poṉṉivaṇ viṭuttōṉ</l>
+          <l><lb/>aruḷiyu maruḷā ṉaṭitti māṭṭeṉak</l>
+          <l><lb/>kāraṇak kiḷavi nīra kūṟit</l>
+          <l><lb/>taṟpeyar peyarppa maṉattakai karantu</l>
+          <l><lb/>piṟpayaṅ karutum perunacaik kiḷavi</l>
+          <l><lb/>iṉṉakait tōḻaṟ kiṉiya payiṟṟi</l>
+          <l><lb/>āṅkiṉi tirunta pōḻtiṟ pūṅkuḻai</l>
+        </lg>
+      </div>
+      <div type="urai">
+        <p><lb/><q>viḷaṅkiya, vaḻukkā marapiṉ vattavar perumakaṉ, utayaṇa kumaraṉ</q>
+            <lb/><hi rend="bold">peruṅ.</hi> 3. <num xml:lang="en">6: 114-8.</num>
+        </p>
+        <p><lb/><num xml:lang="en">104.</num> mātarum - narumataiyum. orutuṇaiyōruḷ - oppaṟṟa talai
+            <lb/>varkaḷaippeṟṟa makaḷirkaḷuḷ.
+        </p>
+        <p><lb/><num xml:lang="en">105.</num> peṇtuṇai cāṉṟa - peṇmaiyiṉ aḷavil mikka.</p>
+        <p><lb/><num xml:lang="en">106.</num> pukalum - virumpip pēcum.</p>
+        <p><num xml:lang="en">107.</num> irumūtāṭṭiyākiya eṉakkum.</p>
+        <p><lb/><num xml:lang="en">106-7.</num> koḷkaiyuṇṭeṉavum.</p>
+        <p><lb/><num xml:lang="en">108.</num> tūṇṭilmuḷḷiṟ kōkkappaṭum iraiyaip pōla.
+            <lb/>tuṭakku - utayaṇaṉaip piṇittaṟkuriya karuttai; aḵtu iraikkuḷ
+            <lb/>irukkum muḷḷukku uvamai; <hi rend="bold">peruṅ.</hi> 2. <num xml:lang="en">7: 73-9</num>, pārkka.
+        </p>
+        <p><lb/><num xml:lang="en">110.</num> viṭuttōṉ - utayaṇaṉ.</p>
+        <p><lb/><num xml:lang="en">108.</num> aruḷiyum aruḷāṉeṉṟatu aṉpuṭaiyaṉāyiṉum taṉ vīṭ
+            <lb/>ṭiṟku varavillaiyeṉṉum kuṟippuṭaiyatu. aṭitti - aṭiyavaḷ
+            <lb/>(<hi rend="bold">peruṅ.</hi> 1. <num xml:lang="en">47: 29, 226</num>); <q>aṭittiyāru muṉpaṭṭatoḻintu</q>
+            <lb/>(<hi rend="bold">cīvaka.</hi> <num xml:lang="en">2045</num>); ippeyar aṭicciyeṉavum vaḻaṅkum; <q>pōtār puṉai
+            <lb/>kōtai cūṭṭuṉ ṉaṭicciyai</q> (<hi rend="bold">cīvaka.</hi> <num xml:lang="en">481.</num>) eṉa - eṉavum tāy
+            <lb/>colla.
+        </p>
+        <p><lb/> eṉavum (<num xml:lang="en">107</num>) eṉavum (<num xml:lang="en">111</num>) eṉṟu muṭikka.</p>
+        <p><lb/><num xml:lang="en">112.</num> <q>kāraṇak kiḷavi nīra kāṭṭi</q> <hi rend="bold">peruṅ.</hi> 1. <num xml:lang="en">36: 96.</num></p>
+        <p><lb/><num xml:lang="en">113.</num> taṟpeyar peyarppa - taṉ kaiyiluḷḷa poruḷai vayanta
+            <lb/>kaṉ eṭuttuvaikka; peyar - poruḷ; <hi rend="bold">patiṟ.</hi> 90: <num xml:lang="en">23.</num> maṉattakai -
+            <lb/>maṉattiluḷḷa peruviruppattai.
+        </p>
+        <p><num xml:lang="en">116.</num> pūṅkuḻai: viḷi.</p>
+      </div>
+
+      <div type="mulam">
+        <head type="sub"><pb n="56" facs="276"/>(tāy utayaṇaṉatu iyalpai uraittal)</head>
+        <lg>
+          <l><lb/>kāmuṟap paṭṭa cēṇikac ciṟutoḻil</l>
+          <l><lb/>kaṟṟatu millāc ciṟṟaṟi vāḷaṉ</l>
+          <l><lb/>poyyoṭu miṭainta poruṇacaik kaṭiñcol</l>
+          <l><lb/>maiyuṇṭu kaḻumiya mācupaṭu kaliṅkat</l>
+          <l><lb/><app><lem>tiḷaiyōr</lem><rdg>tiṇaiyōr</rdg></app> vaikā viḻukkaru vāḻkkaiyaṉ</l>
+          <l><lb/>kavaṟā ṭāḷarkkuk kalantolai veytik</l>
+          <l><lb/><app><lem>koṭai</lem><rdg>toṭai</rdg></app>yakat tōṉeṉak kaṭaikaḻin tōṭik</l>
+          <l><lb/>kavalaiyiṟ celaluṅ kavvaiyiṉ vilakki</l>
+          <l><lb/>aiyaṉ vanta vācaṟu karumam</l>
+          <l><lb/>kaivaḷai mātar kaḷaintu <app><lem>ceṉṟīyeṉa</lem><rdg>ceṉṟīmeṉa</rdg></app></l>
+        </lg>
+        <head type="sub"><lb/>(narumatai maṟuttal)</head>
+        <lg>
+            <l><lb/>nitiyaṅ kāṭṭap potiyoṭu citaṟik</l>
+            <l><lb/>kuṟaiyoṭu vantavak kumaraṉ kēṭka</l>
+            <l><lb/>ciṟiyaṉēṉ vantavac ciṟunila maṉṉaṟ</l>
+            <l><lb/>kammaṉai nayantiyā ṉavvayiṟ cēṟal</l>
+            <l><lb/>eṉmaṉai maruṅki ṉilleṉac cīṟit</l>
+            <l><lb/>taṉṟuṟaik kovvāt takaiyil kiḷavi</l>
+          </lg>
+      </div>
+      <div type="urai">
+        <p><lb/><num xml:lang="en">119-21.</num> parattaiyarōṭu kalantu taṅkāta vāḻvaiyuṭaiyavaṉ.</p>
+        <p><lb/><num xml:lang="en">122.</num> kavaṟāṭāḷarkku - cūtāṭupavarkaḷāl. kalam - āparaṇam.</p>
+        <p><lb/><num xml:lang="en">123.</num> koṭaiyakattōṉ - poruḷai vaḻaṅkum uḷḷattavaṉ.
+            <lb/>eṉa - eṉṟu tāycolla.
+        </p>
+        <p><lb/><num xml:lang="en">124.</num> celalum - narumatai cellavum. keḷavaiyiṉ - muḻakkat
+            <lb/>tōṭu.
+        </p>
+        <p><num xml:lang="en">125.</num> aiyaṉ - vayantakaṉ. karumam - kāriyattai.</p>
+        <p><lb/><num xml:lang="en">126.</num> kaḷaintu ceṉṟīyeṉa - ceṉṟu kaḷaivāyeṉṟu.</p>
+        <p><lb/><num xml:lang="en">127.</num> nitiyam - vayantakaṉ koṇarnta poṉṉiṉ tokutiyai.
+            <lb/>potiyoṭu citaṟi - muṭiccuṭaṉ eṟin tuviṭṭu.
+        </p>
+        <p><lb/><num xml:lang="en">128.</num> kuṟai - kāriyam. kēṭka - kēṭpāṉāka.</p>
+        <p><lb/><num xml:lang="en">129.</num> ac ciṟunila maṉṉaṉeṉṟatu utayaṇaṉai.</p>
+        <p><lb/><num xml:lang="en">130.</num> ammaṉai - utayaṇaṉ vīṭu.</p>
+        <p><lb/><num xml:lang="en">131.</num> illeṉa - illaiyeṉṟu.</p>
+        <p><lb/><num xml:lang="en">132.</num> taṉ tuṟaikku - taṉkula oḻukkattiṟku. ovvākkiḷavi,
+            <lb/>takaiyil kiḷaviyeṉak kūṭṭuka.
+        </p>
+      </div>
+
+      <div type="mulam">
+        <lg>
+          <l><pb n="57" facs="277"/><lb/>paintoṭi mātar paṇpila payiṟṟat</l>
+          <l><lb/>tāyap peṇṭirun tantuṇai yōrumeṉ</l>
+          <l><lb/>ṟōri leḻukiḷai yuṭaṉṟok kīṇṭip</l>
+          <l><lb/><app><lem>paḻamai</lem><rdg>paḻaimai</rdg></app>yiṟ pacaiyātu kiḻamaiyiṟ keḻuvātu</l>
+          <l><lb/>tavantīr maruṅkiṟ ṟirumakaḷ pōlap</l>
+          <l><lb/>payantīr maruṅkiṟ paṟṟuviṭ ṭorīi</l>
+          <l><lb/>iṭṭatai yuṇṇu nīlam pōla</l>
+          <l><lb/>ōṭṭiṭat toṭṭu muṟuti vāḻkkaiyuṭ</l>
+          <l><lb/>pattimai koḷḷār paintoṭi kēḷeṉa</l>
+          <l><lb/>eṭuttiyal kiḷaviyō ṭētuk kāṭṭit</l>
+          <l><lb/>toṭikkēḻ muṉkait tokuviraṉ maṭakki</l>
+          <l><lb/>māniti vaḻaṅku maṉṉariṟ piṟantu</l>
+        </lg>
+      </div>
+      <div type="urai">
+        <p><lb/><num xml:lang="en">133.</num> mātar - narumatai. paṇpu ilavāka.</p>
+        <p><lb/><num xml:lang="en">134-5.</num> peṇṭirum tuṇaiyōrumeṉṟa orēkulattiṟ piṟanta
+            <lb/>ēḻu vakaiyiṉarum; eḻukiḷai - vaḷarkiṉṟa kiḷaiyumām; <hi rend="bold">cīvaka.</hi> <num xml:lang="en">330.</num>
+        </p>
+        <p><lb/><num xml:lang="en">136.</num> pacaiyātu - paṟṟuṟāmal; kiḻamai - naṭpu; <q>paḻamai kaṭaip
+            <lb/>piṭiyār kēṇmaiyum pārār, kiḻamai piṟitoṉṟuṅ koḷḷār</q>
+            <lb/><hi rend="bold">nītineṟi.</hi> <num xml:lang="en">47.</num>
+        </p>
+        <p><lb/><num xml:lang="en">137.</num> tavantīr maruṅkiṉ - muṟpiṟappiṟ ceyta tavam tīrntaviṭat
+            <lb/>til; <q>tavantīr maruṅkiṟ ṟaṉittuya ruḻantōy</q> (<hi rend="bold">cilap.</hi> 14: <num xml:lang="en">26</num>);
+            <lb/><q>naṟṟavañ ceyta vīra ruḷavaḻi nayantu nāṭum, poṟṟatā maraiyiṉāḷ</q>
+            <lb/>(<hi rend="bold">cīvaka.</hi> <num xml:lang="en">2738.</num>)
+        </p>
+        <p><num xml:lang="en">138.</num> payam - pirayōcaṉam.</p>
+        <p><lb/><num xml:lang="en">137-8.</num> <q>viṉaiyoḻi kālait tiruviṉ celvi, aṉaiyē māki
+            <lb/>yāṭavart tuṟappēm</q> (<hi rend="bold">maṇi.</hi> 18. <num xml:lang="en">21-2</num>); <q>puṇṇiya mulantapiṉ
+            <lb/>poruḷi lārkaḷaik, kaṇṇilar tuṟantiṭuṅ kaṇikai mārkaḷpōl,
+            <lb/>eṇṇila ḷikantiṭu miyāvar tammaiyum, naṇṇiya naṇpila ṇaṅkai
+            <lb/>vaṇṇamē</q> <hi rend="bold">cūḷā.</hi> mutti. <num xml:lang="en">15.</num>
+        </p>
+        <p><lb/><num xml:lang="en">139.</num> vēṟu niṟaṅkaḷai nīlaniṟam taṉmayamākac ceytal iyalpu;
+            <lb/><q>nīlamuṇṭatum veḷḷai niṟamāmē</q> (<hi rend="bold">tē.</hi> cirāppaḷḷi); <q>ākātē,
+            <lb/>uṇṭatu nīlam piṟitu</q> <hi rend="bold">paḻa.</hi> <num xml:lang="en">168.</num>
+        </p>
+        <p><lb/><num xml:lang="en">140.</num> <q>paṭṭuḻip paṭum</q> (<num xml:lang="en">157</num>) eṉpar piṉṉum.</p>
+        <p><lb/><num xml:lang="en">141.</num> pattimaikoḷḷār nammavareṉa orucol varuvikka.</p>
+        <p><lb/><num xml:lang="en">143-4.</num> utayaṇaṉuṭaiya vicēṭakuṇaṅkaḷai muṟaiyēkūṟa eṇ
+            <lb/>ṇiya cuṟṟattavar, avaṟṟai eṇṇutaṟkāka oruviralai maṭakki maṉṉa
+            <lb/>riṟ piṟanteṉṟāreṉka. maṉṉariṟ piṟantu: <q>aracuvaḻi vanta</q> <num xml:lang="en">165.</num>
+        </p>
+      </div>
+
+      <div type="mulam">
+        <lg>
+          <l><pb n="58" facs="278"/><lb/>.................. vēṇṭiyatu muṭikkum</l>
+          <l><lb/>kāla mituveṉak kāraṇaṅ kāṭṭum</l>
+          <l><lb/>ārvac cuṟṟat tavarvarai nillāḷ</l>
+          <l><lb/>tāykai vitirppat talaipuṭait tiraṅki</l>
+          <l><lb/>ēyatu maṟukkalu miruntōṟ kūyniṉ</l>
+          <l><lb/>aṭiyariṟ paṟṟi yāṇaiyiṟ koḷkeṉak</l>
+          <l><lb/>kaṭitiyal vaiyaṅ kavvaiyi ṉēṟṟik</l>
+          <l><lb/>koṭiyaṇi kūlaṅ koṇṭaṉaṉ pōvuḻi</l>
+        </lg>
+        <head type="sub"><lb/>(narumataiyiṉ kūṟṟu)</head>
+        <lg>
+            <l><lb/>valiti ṉeṉṉai vattavar perumakaṉ</l>
+            <l><lb/>koliya ceyvatu kuḻukkaḷ kāṇkeṉap</l>
+            <l><lb/>pūcaṟ kiḷavi cēyiḻai payiṟṟa</l>
+        </lg>
+        <head type="sub"><lb/>(kaṇṭōr kūṟṟu)</head>
+        <lg>
+            <l><lb/>māriyun tiruvu makaḷir maṉamum</l>
+            <l><lb/>takkuḻi nillātu paṭṭuḻip paṭumeṉum</l>
+            <l><lb/>kaṭṭurai yaṉṟiyuṅ kaṇṭaṉam yāmeṉa</l>
+        </lg>
+      </div>
+      <div type="urai">
+        <p><lb/><num xml:lang="en">147.</num> narumatai cuṟṟattavaruṭaiya ellaiyil nillāḷāy.</p>
+        <p><lb/><num xml:lang="en">148.</num> kaivitirttal āccariyak kuṟippu; <hi rend="bold">peruṅ.</hi> 1. <num xml:lang="en">32: 58.</num></p>
+        <p><lb/><num xml:lang="en">149.</num> iruntōṟ kūy - irunta vayantakaṉai aḻaittu; kūvutal
+            <lb/>tāyiṉṟoḻil.
+        </p>
+        <p><num xml:lang="en">150.</num> āṇaiyiṟ koḷkeṉa: <num xml:lang="en">220.</num></p>
+        <p><lb/><num xml:lang="en">151.</num> kaṭitu iyal vaiyam - viraivākac cellun tēril;
+            <lb/>vaiyam - vaṇṭiyumām.
+        </p>
+        <p><lb/><num xml:lang="en">152.</num> koṭiyaṇi kūlam - tiruviḻāviṟkāka eṭutta koṭikaḷai
+            <lb/>yaṇinta kaṭaivīti; <q>koṭiniḻaṟ paṭṭa poṉṉuṭai niyamam</q> (<hi rend="bold">patiṟ.</hi>
+            <lb/>15); <q>pacuṅkoṭip paṭākaip pantar nīḻal</q> (<hi rend="bold">cilap.</hi> 14: <num xml:lang="en">216</num>);
+            <lb/><hi rend="bold">maturai.</hi> <num xml:lang="en">365-74</num>, <hi rend="bold">paṭṭiṉa.</hi> <num xml:lang="en">158-68</num>, pārkka.
+        </p>
+        <p><lb/><num xml:lang="en">154.</num> koliya - varuttutaṟku; kollutaṟkeṉṟumām.</p>
+        <p><lb/><num xml:lang="en">155.</num> pūcaṟkiḷavi - āravārac coṟkaḷai, payiṟṟa - palamuṟai
+            <lb/>colla.
+        </p>
+        <p><lb/><num xml:lang="en">156.</num> māri - maḻai, tiru - tirumakaḷ. <q>veḷḷamum............
+            <lb/>vēcaiyar, uḷḷamu moruvaḻip paṭara</q> eṉpatil ikkaruttu oru
+            <lb/>vakaiyākap pulappaṭukiṉṟatu.
+        </p>
+        <p><num xml:lang="en">157.</num> takka uḻi - takka iṭattil.</p>
+        <p><lb/><num xml:lang="en">158.</num> kaṭṭuraiyaik kēṭṭalaṉṟiyumeṉa orucol varuvikka.</p>
+        <p><lb/><num xml:lang="en">156-8.</num> māri mutaliyavai takkuḻi nillāmal vēṟiṭañ cellu</p>
+      </div>
+
+      <div type="mulam">
+        <lg>
+          <l><pb n="59" facs="279"/><lb/>viccaiyum vaṉappum viḻukkuṭip piṟappum</l>
+          <l><lb/>ottoruṅ kamainta vutayaṇa kumaraṉaip</l>
+          <l><lb/>peṟṟaṉa ḷāyiṉum piṟarkkunain taḻuvōḷ.</l>
+          <l><lb/><app><lem>peṇṇili</lem><rdg>peṇṇali</rdg></app> kollō periyōrp piḻaippatōr</l>
+          <l><lb/>kaṇṇili yākumik kaṇikai makaḷeṉak</l>
+          <l><lb/>kūtti maruṅkiṟ kuṇampaḻip pōrum</l>
+          <l><lb/>āṟṟaṟ koṟṟamo ṭaracuvaḻi vantataṉ</l>
+          <l><lb/>kāttuyar tolkuṭik katuvā yākap</l>
+          <l><lb/>paṇpil ciṟutoḻil payiṉṟatai yaṉṟiyum</l>
+          <l><lb/>taṉṉoṭu paṭāḷait tāṉayan taraṟṟik</l>
+          <l><lb/>kaṇṇaṟ ṟaṉaṉāṟ kāvalaṉ makaṉeṉa</l>
+          <l><lb/>aṇṇaṉ maruṅki ṉaṟiviḻip pōrum</l>
+          <l><lb/>eḷḷiyu miḻittu miṉṉavai payiṟṟi</l>
+          <l><lb/>muḷḷeyi ṟilaṅku moḷḷamar muṟuvalar</l>
+          <l><lb/>paṭṭi mākkaḷ kaṭṭurai pakarum</l>
+        </lg>
+      </div>
+      <div type="urai">
+        <p><lb/>meṉpataṉai, <q>poṉṉiṟac cennel</q>, <q>nāṟāt takaṭēpōl</q>
+          <lb/>(<hi rend="bold">nālaṭi.</hi> <num xml:lang="en">269, 266</num>), <q>aṉpu nūlāka</q> (<hi rend="bold">cīvaka.</hi> <num xml:lang="en">1596</num>) eṉṉuñ cey
+          <lb/>yuṭkaḷālum muṟaiyē uṇarka.
+        </p>
+        <p><num xml:lang="en">159.</num> viccai - kalvi.</p>
+        <p><lb/><num xml:lang="en">159-60.</num> <q>vaṉappu miḷamaiyum varampil kalviyum, taṉakkunika ril
+            <lb/>lāt taṉmaiyaṉ</q> (<num xml:lang="en">230-31</num>) eṉpar piṉṉum.
+        </p>
+        <p><lb/><num xml:lang="en">162.</num> peṇṇilikollō - peṇtaṉmaiyillātavaḷō.</p>
+        <p><lb/><num xml:lang="en">163.</num> kaṇṇili - aṟivillātavaḷ, kaṇṇōṭṭa millātavaḷ.</p>
+        <p><lb/><num xml:lang="en">165.</num> koṟṟam - aracurimai; <q>teṉṉavaṉ koṟṟañ citain
+          <lb/>tatu</q> cilap. 19: <num xml:lang="en">20.</num>
+        </p>
+        <p><lb/><num xml:lang="en">166.</num> kuṭikkatuvāyāka - kuṭikkuṟṟamāka (<hi rend="bold">peruṅ.</hi> 1. <num xml:lang="en">46: 87</num>;
+            <lb/>3. <num xml:lang="en">22: 136</num>, <num xml:lang="en">24: 149</num>); <q>katuvāyt talaiyiṟ palinī koḷḷa</q>
+            <lb/>(<hi rend="bold">cuntara. tē.</hi>); <q>kaṭalvāyc ceṉṟu mēkaṅ kaviḻntiṟaṅkikkatuvāyp
+            <lb/>paṭa nīrmukantēṟi</q> <hi rend="bold">periyāḻvār.</hi> 3. <num xml:lang="en">5: 4.</num>
+        </p>
+        <p><lb/><num xml:lang="en">167.</num> paṇpil ciṟutoḻileṉṟatu yāḻ kaṟpittalai; aḵtu ara
+            <lb/>caṉ ēvalātaliṉ muṉpum ciṟumai yeṉṟār; <num xml:lang="en">34: 86.</num>
+        </p>
+        <p><lb/><num xml:lang="en">168.</num> paṭāḷai - iṇaṅkātavaḷai. araṟṟal - taṉ kuṟaiyai vāy
+            <lb/>viṭṭukkūṟal; (<hi rend="bold">peruṅ.</hi> 1. <num xml:lang="en">36: 304</num>)
+        </p>
+        <p><num xml:lang="en">169.</num> kaṇ - aṟivu.</p>
+        <p><lb/><num xml:lang="en">173.</num> paṭṭi mākkaḷ - vāyaṭakkamillāta māntar.</p>
+      </div>
+
+      <div type="mulam">
+        <lg>
+          <l><pb n="60" facs="280"/><lb/>peruṅkali yāvaṇam piṟpaṭap pōom</l>
+          <l><lb/>vaiyat tavaḷoṭum vayantakaṉ kēṭpat</l>
+        </lg>
+        <head type="sub"><lb/>(kaṇikaiyarūṭalum nampiyar uṇarttalum
+          <lb/>viṭar mutaliyōr kūṟṟum)
+        </head>
+        <lg>
+          <l><lb/>tēṉkavar vōppit tirunutal curukkip</l>
+          <l><lb/>pūnaṟun tēṟal polaṉvaḷḷat tēnti</l>
+          <l><lb/>oḻuki nilampeṟāa tocintu kaṭaipuṭait</l>
+          <l><lb/>teḻutunuṇ puruva mēṟṟi yiyaivit</l>
+          <l><lb/>tilamalarc cevvā yoppa vitaḻviṭuttu</l>
+          <l><lb/>narampicai kaḷḷi vaṟitiṉiṟ cuvaittu</l>
+          <l><lb/>makiḻiṉ mamma reyti mukiḻiṉ</l>
+          <l><lb/>kāla maṉṟiyuṅ kaiyi <app><lem>ṉeritta</lem><rdg>eṭutta</rdg></app></l>
+          <l><lb/>kaḻunīrk kuvaḷaip perumpoti yaviḻnta</l>
+          <l><lb/>vaḷḷitaḻ vakaiya vāki yoḷḷitaḻ</l>
+          <l><lb/>ceñcivap puṟutta citarari maḻaikkaṇ</l>
+        </lg>
+      </div>
+      <div type="urai">
+        <p><lb/><num xml:lang="en">174.</num> peruṅkali - perumuḻakkam.</p>
+        <p><lb/><num xml:lang="en">175.</num> kēṭpaveṉpatu uraippa (<num xml:lang="en">226</num>) eṉpataṉōṭu muṭiyum.</p>
+        <p><lb/><num xml:lang="en">176.</num> <q>tēṉkavar vōppi</q> eṉpatu mutaliyaṉa maṟukiṟku (<num xml:lang="en">219</num>)
+            <lb/>aṭai. tēṉ - vaṇṭu. ōppi - ōṭṭi.
+        </p>
+        <p><lb/><num xml:lang="en">177.</num> poṉṉeṉpatu polaṉeṉṟu vaḻaṅkumeṉpataṟku
+            <lb/>ivvaṭi mēṟkōḷ; <hi rend="bold">takka. 2</hi> - urai.
+        </p>
+        <p><lb/><num xml:lang="en">178.</num> oḻuki - ceṉṟu. puṭaittu - paruttu.</p>
+        <p><lb/><num xml:lang="en">179.</num> ēṟṟi - neṟṟiyil ēṟṟi.</p>
+        <p><lb/><num xml:lang="en">180.</num> ilamalar - ilavampū; <q>ilamalaraṉṉavañ cennā</q> (<hi rend="bold">akanā.</hi>
+            <lb/>142.) cevvāy - cevviya pūvitaḻai. itaḻ - utaṭu.
+        </p>
+        <p><lb/><num xml:lang="en">181.</num> taḷḷi - veḷippaṭutti. vaṟitiṉir cuvaittu - ciṟitu
+            <lb/>cuvaittu; <q>vaṟituvaṭak kiṟaiñciya</q> <hi rend="bold">patiṟ.</hi> 24.
+        </p>
+        <p><lb/><num xml:lang="en">182.</num> makiḻiṉ - kaḷḷaiyuṇṭa kaḷippāl.</p>
+        <p><lb/><num xml:lang="en">183.</num> neritta - valiya alarttiya; <q>viraluḷarp paviḻnta.........
+            <lb/>kaṇṇi</q> (<hi rend="bold">muruku.</hi> <num xml:lang="en">198-9</num>) eṉpataiyum ataṉ uraiyaiyum aṭik
+            <lb/>kuṟippukkaḷaiyum pārkka.
+        </p>
+        <p><lb/><num xml:lang="en">184.</num> kaḻunīrākiya kuvaḷai. perumpoti - pērarumpu.</p>
+        <p><lb/><num xml:lang="en">185.</num> itaḻ - pūvitaḻ, imai.</p>
+        <p><lb/><num xml:lang="en">185-6.</num> vakaiyavāki uṟutta kaṇkaḷ.</p>
+      </div>
+
+      <div type="mulam">
+        <lg>
+          <l><pb n="61" facs="281"/><lb/>koḻuṅkaṭai yiṭuka nōkki maṇipiṟaḻa</l>
+          <l><lb/>viruppuḷ kūra vimmi veytuyirt</l>
+          <l><lb/>teruttañ ciṟiya kōṭṭi yemmiṉum</l>
+          <l><lb/>tiruttañ cāṉṟanun tuṇaiviyil celkeṉap</l>
+          <l><lb/>pulavit taṇṭan tamarvayi ṉēṟṟi</l>
+          <l><lb/>illai yāyiṉum colvakai cerukkit</l>
+          <l><lb/>taṇṭik koṇṭu peṇṭiraip poṟātu</l>
+          <l><lb/>ceyirvuḷ ḷuṟutta nōkkamoṭu naṟaviṉ</l>
+          <l><lb/>vācaṅ kamaḻu mōcaiya vākik</l>
+          <l><lb/>kiḷippayi raṉṉa kaḷippayiṉ maḻalai</l>
+          <l><lb/>eytā voḻukkamo ṭaitavaṭ payiṟṟi</l>
+          <l><lb/>eyiṟu veḷippaṭā tiṟaiñci ñimiṟiṉam</l>
+          <l><lb/>mūciṉa kariya kōtaiyiṟ puṭaittup</l>
+          <l><lb/>pūṅkuḻai makaḷir pulaviko ṭirumukam</l>
+          <l><lb/>tērntuṇar kāṭciyiṟ <app><lem>ṟirintu</lem><rdg>terintu</rdg></app>nalaṅ kariyap</l>
+          <l><lb/>pūntukiṟ ṟāṉai paṟṟik kāyntatu</l>
+          <l><lb/>kāṭṭiṉai ceṉmō <app><lem>mīṭṭiṉa</lem><rdg>mīṭṭiṉit</rdg></app> teḷikeṉap</l>
+          <l><lb/>paṭiṟṟiyal kaḷaiip paṇimoḻik kiḷavi</l>
+        </lg>
+      </div>
+      <div type="urai">
+        <p><lb/><num xml:lang="en">187.</num> iṭuka nōkki - curuṅkap pārttu; <q>kaṇkaḷai yiṭukak
+            <lb/>kōṭṭi</q> (<hi rend="bold">cīvaka.</hi> <num xml:lang="en">2086.</num>) maṇi - karuviḻi.
+        </p>
+        <p><lb/><num xml:lang="en">189.</num> kōṭṭi - vaḷaittu.</p>
+        <p><num xml:lang="en">191.</num> pulaviyākiya taṇṭattai.</p>
+        <p><lb/><num xml:lang="en">192.</num> kuṟṟamillaiyāyiṉum. cerukki - mayaṅki; <q>cerukkiya
+            <lb/>maññai</q> <hi rend="bold">cīvaka.</hi> <num xml:lang="en">2052.</num>
+        </p>
+        <p><lb/><num xml:lang="en">193.</num> taṇṭi - alaittu.</p>
+        <p><num xml:lang="en">194.</num> ceyirvu - kuṟṟam.</p>
+        <p><lb/><num xml:lang="en">196.</num> payir - aḻaikkum oli.</p>
+        <p><num xml:lang="en">196-7.</num> maḻalaiyaip payiṟṟi.</p>
+        <p><lb/><num xml:lang="en">198.</num> iṟaiñci - kuṉintu.</p>
+        <p><num xml:lang="en">199.</num> kōtaiyiṉ - mālaiyālē.</p>
+        <p><lb/><num xml:lang="en">201.</num> kāṭciyiṉ - aṟiviṉāl. nalam kariya - aḻaku keṭutalāl.</p>
+        <p><lb/><num xml:lang="en">202.</num> tukiṟṟāṉai - āṭaiyiṉ talaippu. paṟṟal mutaliyaṉa talai
+            <lb/>var toḻil.
+        </p>
+        <p><lb/><num xml:lang="en">203.</num> kāṭṭiṉai ceṉmōveṉṟatu oruttiyai nōkki oru
+            <lb/>talaivaṉ kūṟiyatākak koḷka. mīṭṭu iṉṉa teḷika eṉa.
+        </p>
+        <p><lb/><num xml:lang="en">204.</num> paṭiṟu iyal kaḷaii - vañcaṉaiyākiya iyalpaik kaḷaintu.</p>
+      </div>
+
+      <div type="mulam">
+        <lg>
+          <l><pb n="62" facs="282"/><lb/>naṭukkuṟu tuyaramoṭu nayavarap <app><lem>payiṟṟi</lem><rdg>paṟṟi</rdg></app>k</l>
+          <l><lb/>kuvippūṅ kaiyiṇai kūppit tirukkuḻal</l>
+          <l><lb/>nāṉap paṅki karamicait tivaḷap</l>
+          <l><lb/>paraṭṭacai kiṇkiṇip pakkam pulli</l>
+          <l><lb/>arattakat tīrat taitukoṇ ṭeḻutiya</l>
+          <l><lb/>cīṟaṭic cuvaṭṭeḻut tēṟiya ceṉṉiyar</l>
+          <l><lb/>nāṭpōtu nayanta vēṭkaiya vāyiṉum</l>
+          <l><lb/>mukaippatam pārkkum vaṇṭiṉam pōlat</l>
+          <l><lb/>takaipparuṅ kāmattut tāmvīḻ makaḷir</l>
+          <l><lb/>nakaippatam pārkku naṉinā karikattuc</l>
+          <l><lb/>colli ṉuṇporuḷ kāṭṭi yilliṉ</l>
+          <l><lb/>paṭukāḻp paṭuttut tēyvai yuṟīik</l>
+          <l><lb/>kaluḻi nīkkuṅ kammiyar pōla</l>
+          <l><lb/>makara vīṇaiyiṉ maṉamācu kaḻīi</l>
+        </lg>
+      </div>
+      <div type="urai">
+        <p><lb/><num xml:lang="en">207.</num> nāṉam - palavakai naṟumaṇam, vāca eṇṇey. tivaḷa -
+            <lb/>acaiya.
+        </p>
+        <p><lb/><num xml:lang="en">206-7.</num> kuḻaṟ paṅki - kuḻaṟciyaiyuṭaiya kuṭumi; <q>kuḻaluṭaic
+            <lb/>cikaḻikaik kumaraṉ</q> <hi rend="bold">cīvaka.</hi> <num xml:lang="en">1092.</num>
+        </p>
+        <p><lb/><num xml:lang="en">208.</num> paraṭu acai - paraṭṭiṉmītu kaṭṭiya; <q>puṭaicciṟu paraṭu pul
+            <lb/>lik kiṇkiṇi cilampō ṭārppa</q> <hi rend="bold">cīvaka.</hi> <num xml:lang="en">2445.</num>
+        </p>
+        <p><lb/><num xml:lang="en">209.</num> arattakattu īrattu - cempañcuk kuḻampāl. aitu -
+            <lb/>mellitu.
+        </p>
+        <p><num xml:lang="en">211.</num> nāṭpōtu - kālaiyil malarum malar.</p>
+        <p><lb/><num xml:lang="en">213.</num> takaippu aru - taṭuttaṟkariya.</p>
+        <p><lb/><num xml:lang="en">212-4.</num> <q>takaimalar vaṇṭiṉ, nakaippatam pārkku miḷaiyōr</q>
+            <lb/><hi rend="bold">cilap.</hi> 14: <num xml:lang="en">162-3.</num>
+        </p>
+        <p><lb/><num xml:lang="en">215-6.</num> illiṉ paṭukāḻ - tēṟṟāṅ koṭṭai; il: illa
+            <lb/>meṉpataṉ kaṭaikkuṟai. tēyvai uṟīi - tēyttalaic ceytu.
+        </p>
+        <p><lb/><num xml:lang="en">217.</num> kammiyar - toḻilaiyuṭaiyār.</p>
+        <p><lb/><num xml:lang="en">218.</num> makara vīṇaiyai vācittalāl.</p>
+        <p><lb/><num xml:lang="en">215-8.</num> <q>kalañcitai yillattuk kāḻkoṇṭu tēṟṟak, kalaṅ
+            <lb/>kiya nīrpōṟ ṟeḷintu nalampeṟṟāḷ, nalleḻiṉ mārpaṉaic
+            <lb/>cārntu</q> (<hi rend="bold">kali.</hi> 142); <q>tēṟupaṭu ciṉṉīr pōlat teḷintu</q>
+            <lb/>(<hi rend="bold">maṇi.</hi> 23: <num xml:lang="en">142-3</num>); <q>niṉṟā ṉuḷḷan tēṟuraikka nittan teḷiva
+            <lb/>teṉatteḷintu</q> (<hi rend="bold">piramōttara.</hi> vañcuḷaimutti. <num xml:lang="en">99</num>); <q>tēṟāta</q><!-- quote doesn't end here, but in next page's urai-->
+        </p>
+      </div>
+
+      <div type="mulam">
+        <lg>
+          <l><pb n="63" facs="283"/><lb/>nakara nampiyar kiritaru maṟukiṉ</l>
+          <l><lb/>āṇaiyiṟ koṇṭutaṉ ṉaraciyal ceytōṉ</l>
+          <l><lb/>kāma viruntiṉaṉ kalaiyiṟ kikantaṉaṉ</l>
+          <l><lb/>piḻaikkavum peṟūum peṇṭir māṭṭeṉa</l>
+          <l><lb/>uraittaku kiḷavi yōmpār payiṟṟi</l>
+          <l><lb/>naṭanaviṉ makaḷir nalattiṭai nampi</l>
+          <l><lb/>viruntiṉaṉ pōṉmeṉap purintalar tūṟṟi</l>
+          <l><lb/>viṭarun tūrttarum viṭṭē ṟuraippat</l>
+          <l><lb/>taruma nuvalātu tattuva morīik</l>
+          <l><lb/>karuma nutaliya kaḷḷak kāmam</l>
+          <l><lb/>ettuṟai mākkaḷu meykkoḷap parappi</l>
+          <l><lb/>vaṉappu miḷamaiyum varampil kalviyum</l>
+          <l><lb/>taṉakkunika rillāt taṉmaiya ṉātaliṟ</l>
+          <l><lb/>poruntāp puṟañco ṉiṟampārt teṟiya</l>
+          <l><lb/>vāṉmayir tuṭakkiṟ ṟāṉuyir vāḻāp</l>
+          <l><lb/>peruntakaik kavari yaṉṉa pīṭaḻintu</l>
+        </lg>
+      </div>
+      <div type="urai">
+        <p><lb/><q>yāvun teḷivikkun tēṟeṉa</q> (<hi rend="bold">valivalamum.</hi> <num xml:lang="en">8</num>); <q>maṇmayakkan
+            <lb/>tēṟṟuvittāṉ māṟṟutalpō lāṟiyaṉāl, uṇmayakkan tēṟṟuvit
+            <lb/>tāṉ</q> (<hi rend="bold">tiruvēṅkaṭa mālai.</hi>)
+        </p>
+        <p><num xml:lang="en">219.</num> <hi rend="bold">mu. cilap.</hi> 3: <num xml:lang="en">168.</num></p>
+        <p><lb/> nākarikattaiyuṭaiya (<num xml:lang="en">214</num>) nampiya (<num xml:lang="en">219</num>) reṉka.</p>
+        <p><lb/><num xml:lang="en">220.</num> āṇai - ākkiṉai. ceytōṉ - utayaṇaṉ.</p>
+        <p><lb/><num xml:lang="en">221.</num> kāmaviruntiṉaṉ: <hi rend="bold">cilap.</hi> 14: <num xml:lang="en">164.</num> ikantaṉaṉ - kaṭan
+          <lb/>tāṉ. virumpātavaḷai virumpi valintu koṇṭuvarac ceytāṉeṉ
+          <lb/>pār, <q>kalaiyiṟ kikantaṉaṉ</q> eṉṟār.
+        </p>
+        <p><num xml:lang="en">223.</num> ōmpār - pātukāvārāy.</p>
+        <p><lb/><num xml:lang="en">225.</num> viruntiṉaṉpōlum - putiyavaṉpōlum. purintu - mikuntu.</p>
+        <p><lb/><num xml:lang="en">226.</num> viṭṭēṟu - ikaḻntu kūṟum kaṭuñcol; iṅṅaṉaṅ kūṟit
+          <lb/>tirivōr peyar viṭṭēṟṟikaḷeṉa vaḻakkil uḷḷatu; <q>tūrt
+          <lb/>tarum viṭṭēṟ ṟāḷarum</q> (<hi rend="bold">maṇi.</hi> 14: <num xml:lang="en">61</num>) eṉpataiyum ataṉ kuṟippu
+          <lb/>mutaliyavaṟṟaiyum pārkka.
+        </p>
+        <p><num xml:lang="en">227.</num> tattuvam orīi - uṇmaiyai nīkki.</p>
+        <p><lb/><num xml:lang="en">228.</num> karumam nutaliya - kāriyattaik karutiya.</p>
+        <p><lb/><num xml:lang="en">231.</num> taṉmaiyaṉeṉṟatu utayaṇaṉai.</p>
+        <p><lb/><num xml:lang="en">232.</num> niṟam - mārpu. puṟañcollākiya kallai eṟiya; <hi rend="bold">nālaṭi.</hi> <num xml:lang="en">66.</num></p>
+        <p><lb/><num xml:lang="en">233-4.</num> <q>mayir nīppiṉ vāḻāk kavarimā</q> (<hi rend="bold">tirukkuṟaḷ.</hi> <num xml:lang="en">969</num>)
+          <lb/>eṉpatum, <q>māṉa nōkkiṟ kavarimā vaṉaiya nīrār</q> (<hi rend="bold">kampa.</hi> mantira. <num xml:lang="en">7</num>)
+          <lb/>eṉpatum iṅkē aṟiyattakkaṉa.
+        </p>
+      </div>
+
+      <div type="mulam">
+        <lg>
+          <l><pb n="64" facs="284"/><lb/>neṭuveṇ ṇilavi ṉīrmaik kiraṅki</l>
+          <l><lb/>muṟuvaṉ makaḷir muṟṟa niṟpap</l>
+          <l><lb/>pacuṅkatir curuṅkiya pacalait tāki</l>
+          <l><lb/>vicumpeḻat tēyum veṇmati pōla</l>
+          <l><lb/>valiyiṟ ṟīrā toḷiyiṟ kuṉṟip</l>
+          <l><lb/>perunal kūrnta peruvarai yakalat</l>
+          <l><lb/>tevva maṟaittal vēṇṭi vaiyattu</l>
+          <l><lb/>valitiṟ ṟanta vālvaḷaip paṇaittōḷ</l>
+          <l><lb/><app><lem>orumaṉam</lem><rdg>orumaṇam</rdg></app> purinta narumatai kēṭpa</l>
+          <l><lb/>vēṭkaik kiḷavi veḷippaṭap payiṟṟic</l>
+          <l><lb/>cēṭpaṭu kurucil cērtoṟum poṟāaḷ</l>
+          <l><lb/>naccuyirp paḷaiiya nākam pōla</l>
+          <l><lb/>accuyirp paḷaii yamarā nōkkamoṭu</l>
+          <l><lb/>cillaic ciṟucoṉ melliyaṉ miḻaṟṟa</l>
+          <l><lb/>avviru ḷaṭakki vaikiruṭ pōkkip</l>
+          <l><lb/>pōṟṟā mākka ṭūṟṟum perumpaḻi</l>
+          <l><lb/>mēṟkoṇ ṭaṉaṉāṉ miṉṉiḻai poruṭṭeṉ.</l>
+        </lg>
+        <head type="sub"><lb/>35 — narumatai campantam muṟṟiṟṟu.</head>
+      </div>
+      <div type="urai">
+        <p><lb/><num xml:lang="en">235.</num> neṭuveṇṇilavu - kālattāl neṭiya veḷḷiya nilavu;
+            <lb/><q>kaḷaviṟku, nallai yallai neṭuveṇ ṇilavē</q> (<hi rend="bold">kuṟun.</hi> 47.) nilaviṉ
+            <lb/>neṭumaikkuk kāraṇam virakam.
+        </p>
+        <p><num xml:lang="en">235-6.</num> iraṅki niṟpavum.</p>
+        <p><lb/><num xml:lang="en">237.</num> pacuṅkatir - pālacūriyaṉ. pacalaittāki - poṉṉiṟa
+            <lb/>muṭaiyatāki.
+        </p>
+        <p><num xml:lang="en">238.</num> vicumpu eḻa - ākāyattil utayamāka.</p>
+        <p><lb/><num xml:lang="en">241.</num> evvam - iḷivaravu.</p>
+        <p><num xml:lang="en">242.</num> tanta - koṇṭuvarappaṭṭa.</p>
+        <p><lb/><num xml:lang="en">245.</num> cēṭpaṭukuricil: cēṇ - neṭuntūram; narumataikku aṟiya
+            <lb/>vaṉeṉṟapaṭi.
+        </p>
+        <p><num xml:lang="en">246.</num> naccuyirppu - viṭattaiyuṭaiya mūccu.</p>
+        <p><lb/><num xml:lang="en">247.</num> accu - accam. amarā nōkkam - virumpip poruntāta
+            <lb/>pārvai.
+        </p>
+        <p><lb/><num xml:lang="en">248.</num> cillaic ciṟucol - iḻivāṉa ciṟiya coṟkaḷai; <q>cillaik
+            <lb/>kaṇṇaṉpiṉai</q> <hi rend="bold">nālaṭi.</hi> <num xml:lang="en">377.</num>
+        </p>
+        <p><lb/><num xml:lang="en">249.</num> vaikiruḷ - viṭiyaṟkālattu iruḷilē.</p>
+        <p><lb/><num xml:lang="en">251.</num> miṉṉiḻai - vācavatattai.</p>
+        <p><num xml:lang="en">250-51.</num> = <num xml:lang="en">60-61.</num></p>
+      </div>
+
+    </body>
+  </text>
+</TEI>
